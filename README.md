@@ -8,9 +8,9 @@ Maven Project with below depedency
 3) Sure-fire plugin
 
 Steps to clone execute the tests
-git clone https://github.com/dineshmcac/Automation-Test
-cd Automation-Test
-mvn clean test
+1. git clone https://github.com/dineshmcac/Automation-Test
+2. cd Automation-Test
+3. mvn clean test
 
 Output:
 Find the output file in the root with the name output.txt
