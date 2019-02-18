@@ -19,5 +19,6 @@ Data:
 1. resource/simple_test_file.csv
 2. testng.xml
 
+Java Class
 1. Test Class - ValidateCSV.java
 2. PageObject Class - BaseClass, ReusableWrapper, TestCasePO
