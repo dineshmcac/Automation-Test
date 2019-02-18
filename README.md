@@ -16,8 +16,8 @@ Output:
 Find the output file in the root with the name output.txt
 
 Data:
-resource/simple_test_file.csv
-testng.xml
+1. resource/simple_test_file.csv
+2. testng.xml
 
-Test Class - ValidateCSV.java
-PageObject Class - BaseClass, ReusableWrapper, TestCasePO
+1. Test Class - ValidateCSV.java
+2. PageObject Class - BaseClass, ReusableWrapper, TestCasePO
